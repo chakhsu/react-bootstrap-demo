@@ -1,1 +1,1 @@
-# full-react-demo
+# react-bootstrap-demo
