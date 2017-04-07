@@ -1,1 +1,1 @@
-# Thinking-in-React-Demo
+# full-react-demo
